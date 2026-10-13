@@ -25,7 +25,7 @@
 
 ### Bước 2: Tải dự án về máy
 + `bash
-+ ``git clone https://github.com/TENTAIKHOAN/giang-sinh-an-lanh.git
++ ``git clone https://github.com/vudienlongbien/xmas-an-lanh.git
 + ``cd giang-sinh-an-lanh
 
 ### Bước 3: Cấu hình tự động chạy (`.zshrc`)
