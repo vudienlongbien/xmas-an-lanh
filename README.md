@@ -16,7 +16,7 @@
 ## 🛠️ Hướng dẫn cài đặt môi trường (Termux)
 
 ### Bước 1: Cài đặt các gói phụ thuộc (Dependencies)
-- Mở Termux lên và phăng mớ lệnh sau:
+- Mở Termux lên và phang mớ lệnh sau:
 
 + `bash
 + `pkg update && pkg upgrade -y
@@ -26,13 +26,13 @@
 ### Bước 2: Tải dự án về máy
 + `bash
 + `git clone https://github.com/vudienlongbien/xmas-an-lanh.git
-+ `cd giang-sinh-an-lanh
++ `cd xmas-an-lanh
 
 ### Bước 3: Cấu hình tự động chạy (`.zshrc`)
 - Thêm dòng sau vào cuối file `~/.zshrc` hoặc `~/.bashrc`:
 
 + `bash
-+ `python ~/giang-sinh-an-lanh/idk.py
++ `python ~/xmas-an-lanh/idk.py
 ---
 ## 👨‍💻 Cách hoạt động (Under the hood)
 
