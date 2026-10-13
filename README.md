@@ -18,15 +18,15 @@
 ### Bước 1: Cài đặt các gói phụ thuộc (Dependencies)
 - Mở Termux lên và phăng mớ lệnh sau:
 
-+ ``bash
-+ ``pkg update && pkg upgrade -y
++ `bash
++ `pkg update && pkg upgrade -y
 + `pkg install python git figlet termux-api -y
 
 
 ### Bước 2: Tải dự án về máy
 + `bash
-+ ``git clone https://github.com/vudienlongbien/xmas-an-lanh.git
-+ ``cd giang-sinh-an-lanh
++ `git clone https://github.com/vudienlongbien/xmas-an-lanh.git
++ `cd giang-sinh-an-lanh
 
 ### Bước 3: Cấu hình tự động chạy (`.zshrc`)
 - Thêm dòng sau vào cuối file `~/.zshrc` hoặc `~/.bashrc`:
